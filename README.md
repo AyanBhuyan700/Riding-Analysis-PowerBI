@@ -43,34 +43,6 @@ This project demonstrates skills in **Power BI**, **Power Query**, **DAX**, and 
 
 ---
 
-## 📂 Project Structure
-
-```text
-Ride-Insights-PowerBI/
-│
-├── Ride Insights Dashboard.pbix
-├── Dataset/
-│   └── ride_data.csv
-├── Images/
-│   ├── dashboard.png
-│   └── dashboard_overview.png
-└── README.md
-```
-
----
-
-## 📷 Dashboard Preview
-
-> Add screenshots of your dashboard inside the **Images** folder.
-
-Example:
-
-```markdown
-![Dashboard](Images/dashboard.png)
-```
-
----
-
 ## 📈 Key Insights
 
 * Identified peak ride hours and busiest days.
